@@ -90,12 +90,14 @@ header .container-fluid
 .jumbotron h6,
 .jumbotron small
 {
-    color: #FFFFFF;
+    /*color: #FFFFFF;*/
+    color: #000000;
 }
 
 .jumbotron p
 {
-    color: #FFFFFF;
+    /*color: #FFFFFF;*/
+    color: #000000;
     margin-bottom: 5%;
 }
 
